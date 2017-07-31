@@ -1,0 +1,12 @@
+{
+  "name": "redux-intro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/carlox7/redux-intro.git",
+  "author": "Carlo Santos <carlox7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^20.0.4",
+    "redux": "^3.7.2"
+  }
+}
